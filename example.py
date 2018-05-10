@@ -18,16 +18,16 @@ if __name__ == '__main__':
 	djv.fingerprint_directory("mp3", [".mp3"])
 
 	# l'argument recognize qui permet de lancer la reconnaissance
-	#song = djv.recognize(FileRecognizer, "mp3/Sean-Fournier--Falling-For-You.mp3")
-	#print("From file we recognized: {}\n".format(song))
+	song = djv.recognize(FileRecognizer, "mp3/Sean-Fournier--Falling-For-You.mp3")
+	print("From file we recognized: {}\n".format(song))
 
 	# l'argument recognize appelé avec un paramètre de type "microphone"
 	secs = 15
-	#song = djv.recognize(MicrophoneRecognizer, seconds=secs)
-	#if song is None:
-	#	print("Nothing recognized -- did you play the song out loud so your mic could hear it? :3 ")
-	#else:
-	#	print("From mic with %d seconds we recognized: %s\n" % (secs, song))
+	song = djv.recognize(MicrophoneRecognizer, seconds=secs)
+	if song is None:
+		print("Nothing recognized -- did you play the song out loud so your mic could hear it? :3 ")
+	else:
+		print("From mic with %d seconds we recognized: %s\n" % (secs, song))
 
 	#Or use a recognizer without the shortcut, in anyway you would like
 	#recognizer = FileRecognizer(djv)
