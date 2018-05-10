@@ -61,7 +61,7 @@ if __name__ == '__main__':
                 root.destroy()
 
                                 
-                path="c:\\Users\Julien\Desktop\dejavu\Classique"
+                path="c:\\Users\Julien\Desktop\dejavu\Type_de_musique\Classique"
                 fichiers = os.listdir(path)
                 musiques=[]
                 for f in fichiers :
@@ -71,7 +71,7 @@ if __name__ == '__main__':
                         print("C'est une musique classique")
                         subprocess.call("py -2.7 visualizer_Classique.py")
 
-                path="c:\\Users\Julien\Desktop\dejavu\Rock"
+                path="c:\\Users\Julien\Desktop\dejavu\Type_de_musique\Rock"
                 fichiers = os.listdir(path)
                 musiques=[]
                 for f in fichiers :
@@ -81,7 +81,7 @@ if __name__ == '__main__':
                         print("C'est une musique Rock")
                         subprocess.call("py -2.7 visualizer_Rock.py")
                         
-                path="c:\\Users\Julien\Desktop\dejavu\Electro"
+                path="c:\\Users\Julien\Desktop\dejavu\Type_de_musique\Electro"
                 fichiers = os.listdir(path)
                 musiques=[]
                 for f in fichiers :
@@ -91,7 +91,7 @@ if __name__ == '__main__':
                         print("C'est une musique Electro")
                         subprocess.call("py -2.7 visualizer_Electro.py")
                         
-                path="c:\\Users\Julien\Desktop\dejavu\Reggae"
+                path="c:\\Users\Julien\Desktop\dejavu\Type_de_musique\Reggae"
                 fichiers = os.listdir(path)
                 musiques=[]
                 for f in fichiers :
@@ -101,7 +101,7 @@ if __name__ == '__main__':
                         print("C'est une musique Reggae")
                         subprocess.call("py -2.7 visualizer_Reggae.py")
             
-                path="c:\\Users\Julien\Desktop\dejavu\Metal"
+                path="c:\\Users\Julien\Desktop\dejavu\Type_de_musique\Metal"
                 fichiers = os.listdir(path)
                 musiques=[]
                 for f in fichiers :
