@@ -11,6 +11,10 @@ Explication rapide des différentes parties:
 
 Les fonctions servant pour Dejavu sont dans le dossier Dejavu
 
+Le dossier dejavu_test_results permet de stocker les diagrammes obtenus avec Dejavu
+
+Le dossier frames contient les gifs décomposés sous forme d'images numérotées
+
 example.py permet d'enregistrer des empreintes de musiques à la base de données, ou de lancer la reconnaissance
 
 dejavu.py contient la classe Dejavu et toutes les fonctions qui lui sont propre
