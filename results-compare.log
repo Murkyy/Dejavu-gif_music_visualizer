@@ -1,0 +1,630 @@
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmp6_f1k7xn', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpwtvq4a8t'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpwduqfojy', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmp0uhgps50'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmp4tl5mdks', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpf3_pb37l'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpzw_peksp', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpavlgudwa'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmp5v8bb5de', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpfz_ollho'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmp_14099od', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmp1f6pmtne'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpkeszr1fj', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpiugafix4'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpgd90vn6d', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpni0cyhc1'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpyoei88h5', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmprh4je6kp'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmprxdxcfn_', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmp9jdwfszm'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpznik6rte', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpe2rh0lob'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmp6djyk5i0', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpufa3i7cc'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpipf7vi2f', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpvgker39e'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmp_bk0gsox', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmp_41vl70_'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpkhsrfmbf', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpiu4_lhhd'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpmmpzsodq', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpewfqgziz'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpdgo_f6wz', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmp2zmw7ttz'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpnqn_uygp', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpriakicpt'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpfpoitf4m', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpk4g2npe8'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmp6z8vmp34', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpv9jlh7q8'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpsjsq2zn6', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpdhipcojh'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpf2avf4ni', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpf7pfb_d2'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmplkvh3uzz', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpnxgr3716'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmp6nqa1cq1', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmp3e4eobjy'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpvh_i9qwb', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpq8qz3n7c'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpm36hvne_', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmp1btm4jhp'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmppi7bzkp2', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmp6ney30a6'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmp4t8wylck', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpya6u6q00'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpbodwjeos', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpf2n46cjg'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpdo97k2sn', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpsinaw3im'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmp_mea8e98', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpdl2dd3g5'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpbwip5ibw', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmp88zj9zlj'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpgwi462tb', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmp_f1nt_pw'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmp6fa15u5r', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpu38t4uro'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpy23q1yvp', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmp6baxp1ml'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmplkettc5m', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpf1fbrw85'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmp_a3tgnay', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmp94dekz64'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmp7u0ggjs_', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpqkjcym3c'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmp5rqldjv4', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpc7vbakhr'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmp5hm1uk64', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpgf9_4q7h'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpqh74qw6z', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpw3fsgnq1'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpn1onbs7m', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmppzc_7vqq'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpmmwyoa1v', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpzecf6dzm'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmptr96b5hv', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpgmy4sfds'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpn6io18pz', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpej1lrcfm'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmp1h6b3xtn', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmp2g80io9w'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpdn40rky7', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpnqp5gyri'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpczy_ae36', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmp8o0ds_1q'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpdt1biqcs', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmp9f_57da4'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmp1ocgzc5a', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmp0rmfwdhb'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpl2g2a5jo', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpg485ii8p'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpoxoggpn4', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmp9w40q_y9'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpz_qhqt1g', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpsjc7frhw'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmp9qtuxe6t', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmp7aiubd42'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpx_2yz2ti', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpzknti8pp'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpr0tjhsy8', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmp_ug8fd69'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmp1uk9w6ub', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpw01k2nfc'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmp7wft4pjg', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpt3dfy10e'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmptu_l7s2r', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpdtg13he7'])
+DEBUG:root:Running Dejavu fingerprinter on files in ./Michael Jackson - Billie Jean.mp3...
+DEBUG:root:finished obtaining results from dejavu in 0.0010025501251220703
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpn7xgovll', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpprz71paj'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpmlmrn15j', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmp1gdxy2zv'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpd25m88f3', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmprlyn_9vn'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmp__i4h58u', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpdt4fsdyv'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmplq67zcw4', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpxqjnfe0a'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpmph6dvoe', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmp5472o6if'])
+DEBUG:root:Running Dejavu fingerprinter on files in ./mp3...
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Daft Punk - Harder, Better, Faster, Stronger_122_4sec.mp3
+DEBUG:root:song: Daft Punk - Harder, Better, Faster, Stronger
+DEBUG:root:song_result: Daft Punk - Harder, Better, Faster, Stronger
+DEBUG:root:correct match
+DEBUG:root:query duration: 8.857
+DEBUG:root:confidence: 984
+DEBUG:root:song start_time: 122
+DEBUG:root:result start time: 122.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Daft Punk - Harder, Better, Faster, Stronger_16_5sec.mp3
+DEBUG:root:song: Daft Punk - Harder, Better, Faster, Stronger
+DEBUG:root:song_result: Daft Punk - Harder, Better, Faster, Stronger
+DEBUG:root:correct match
+DEBUG:root:query duration: 4.188
+DEBUG:root:confidence: 125
+DEBUG:root:song start_time: 16
+DEBUG:root:result start time: 8.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Daft Punk - Harder, Better, Faster, Stronger_208_1sec.mp3
+DEBUG:root:song: Daft Punk - Harder, Better, Faster, Stronger
+DEBUG:root:song_result: Daft Punk - Harder, Better, Faster, Stronger
+DEBUG:root:correct match
+DEBUG:root:query duration: 1.283
+DEBUG:root:confidence: 148
+DEBUG:root:song start_time: 208
+DEBUG:root:result start time: 208.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Daft Punk - Harder, Better, Faster, Stronger_43_3sec.mp3
+DEBUG:root:song: Daft Punk - Harder, Better, Faster, Stronger
+DEBUG:root:song_result: Daft Punk - Harder, Better, Faster, Stronger
+DEBUG:root:correct match
+DEBUG:root:query duration: 2.512
+DEBUG:root:confidence: 604
+DEBUG:root:song start_time: 43
+DEBUG:root:result start time: 43.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Daft Punk - Harder, Better, Faster, Stronger_85_2sec.mp3
+DEBUG:root:song: Daft Punk - Harder, Better, Faster, Stronger
+DEBUG:root:song_result: Daft Punk - Harder, Better, Faster, Stronger
+DEBUG:root:correct match
+DEBUG:root:query duration: 1.078
+DEBUG:root:confidence: 68
+DEBUG:root:song start_time: 85
+DEBUG:root:result start time: 85.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:finished obtaining results from dejavu in 23.04717206954956
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpovuqpkca', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpkz3_yl7q'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpslb90_y4', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpfn9o06vu'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpd3qk9jg2', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpacr9tklz'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmp98rf75qg', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpip5g68cv'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpycr2ftoj', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmp6sklek8x'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpmbtrbahv', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpq3c3i5u_'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpql63i3uq', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmp20vwd1w8'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpg08nygk4', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpj_tr08hj'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpzoxj_705', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpsl8k2vbo'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpqhqxwfly', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmp_zlbk4j_'])
+DEBUG:root:Running Dejavu fingerprinter on files in ./mp3...
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Daft Punk - Harder, Better, Faster, Stronger_11_2sec.mp3
+DEBUG:root:song: Daft Punk - Harder, Better, Faster, Stronger
+DEBUG:root:song_result: Daft Punk - Harder, Better, Faster, Stronger
+DEBUG:root:correct match
+DEBUG:root:query duration: 2.616
+DEBUG:root:confidence: 92
+DEBUG:root:song start_time: 11
+DEBUG:root:result start time: 17.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Daft Punk - Harder, Better, Faster, Stronger_161_1sec.mp3
+DEBUG:root:song: Daft Punk - Harder, Better, Faster, Stronger
+DEBUG:root:song_result: Daft Punk - Harder, Better, Faster, Stronger
+DEBUG:root:correct match
+DEBUG:root:query duration: 2.982
+DEBUG:root:confidence: 88
+DEBUG:root:song start_time: 161
+DEBUG:root:result start time: 161.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Daft Punk - Harder, Better, Faster, Stronger_167_4sec.mp3
+DEBUG:root:song: Daft Punk - Harder, Better, Faster, Stronger
+DEBUG:root:song_result: Daft Punk - Harder, Better, Faster, Stronger
+DEBUG:root:correct match
+DEBUG:root:query duration: 7.219
+DEBUG:root:confidence: 957
+DEBUG:root:song start_time: 167
+DEBUG:root:result start time: 167.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Daft Punk - Harder, Better, Faster, Stronger_191_3sec.mp3
+DEBUG:root:song: Daft Punk - Harder, Better, Faster, Stronger
+DEBUG:root:song_result: Daft Punk - Harder, Better, Faster, Stronger
+DEBUG:root:correct match
+DEBUG:root:query duration: 3.104
+DEBUG:root:confidence: 578
+DEBUG:root:song start_time: 191
+DEBUG:root:result start time: 191.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Daft Punk - Harder, Better, Faster, Stronger_21_5sec.mp3
+DEBUG:root:song: Daft Punk - Harder, Better, Faster, Stronger
+DEBUG:root:song_result: Daft Punk - Harder, Better, Faster, Stronger
+DEBUG:root:correct match
+DEBUG:root:query duration: 2.966
+DEBUG:root:confidence: 509
+DEBUG:root:song start_time: 21
+DEBUG:root:result start time: 21.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful_117_1sec.mp3
+DEBUG:root:song: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful
+DEBUG:root:song_result: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.406
+DEBUG:root:confidence: 51
+DEBUG:root:song start_time: 117
+DEBUG:root:result start time: 117.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful_176_5sec.mp3
+DEBUG:root:song: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful
+DEBUG:root:song_result: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful
+DEBUG:root:correct match
+DEBUG:root:query duration: 2.222
+DEBUG:root:confidence: 894
+DEBUG:root:song start_time: 176
+DEBUG:root:result start time: 176.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful_200_2sec.mp3
+DEBUG:root:song: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful
+DEBUG:root:song_result: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful
+DEBUG:root:correct match
+DEBUG:root:query duration: 1.069
+DEBUG:root:confidence: 172
+DEBUG:root:song start_time: 200
+DEBUG:root:result start time: 200.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful_200_4sec.mp3
+DEBUG:root:song: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful
+DEBUG:root:song_result: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful
+DEBUG:root:correct match
+DEBUG:root:query duration: 1.795
+DEBUG:root:confidence: 312
+DEBUG:root:song start_time: 200
+DEBUG:root:result start time: 200.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful_75_3sec.mp3
+DEBUG:root:song: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful
+DEBUG:root:song_result: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful
+DEBUG:root:correct match
+DEBUG:root:query duration: 1.765
+DEBUG:root:confidence: 696
+DEBUG:root:song start_time: 75
+DEBUG:root:result start time: 75.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:finished obtaining results from dejavu in 36.995386838912964
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpo2a_ua0v', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpchasghb8'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpxq7owlk1', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmp3mtqnyaw'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmps095hvoi', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpi3jdasr6'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpaam4m28v', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmp2t2t0ql_'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmp08286ynf', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpskk21v__'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmp7rdkg4rl', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpyg_4sdm1'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpzm5txnvq', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmptf49t5k8'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpx_zk52v7', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpzjbswxoh'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmp1awf0vnc', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpfnrfg5qz'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmp4e30v1py', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmp3_il_c72'])
+DEBUG:root:Running Dejavu fingerprinter on files in ./mp3...
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Daft Punk - Harder, Better, Faster, Stronger_119_1sec.mp3
+DEBUG:root:song: Daft Punk - Harder, Better, Faster, Stronger
+DEBUG:root:song_result: Daft Punk - Harder, Better, Faster, Stronger
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.301
+DEBUG:root:confidence: 108
+DEBUG:root:song start_time: 119
+DEBUG:root:result start time: 111.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Daft Punk - Harder, Better, Faster, Stronger_204_2sec.mp3
+DEBUG:root:song: Daft Punk - Harder, Better, Faster, Stronger
+DEBUG:root:song_result: Daft Punk - Harder, Better, Faster, Stronger
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.507
+DEBUG:root:confidence: 178
+DEBUG:root:song start_time: 204
+DEBUG:root:result start time: 204.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Daft Punk - Harder, Better, Faster, Stronger_211_3sec.mp3
+DEBUG:root:song: Daft Punk - Harder, Better, Faster, Stronger
+DEBUG:root:song_result: Daft Punk - Harder, Better, Faster, Stronger
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.707
+DEBUG:root:confidence: 157
+DEBUG:root:song start_time: 211
+DEBUG:root:result start time: 219.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Daft Punk - Harder, Better, Faster, Stronger_27_4sec.mp3
+DEBUG:root:song: Daft Punk - Harder, Better, Faster, Stronger
+DEBUG:root:song_result: Daft Punk - Harder, Better, Faster, Stronger
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.896
+DEBUG:root:confidence: 461
+DEBUG:root:song start_time: 27
+DEBUG:root:result start time: 19.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Daft Punk - Harder, Better, Faster, Stronger_56_5sec.mp3
+DEBUG:root:song: Daft Punk - Harder, Better, Faster, Stronger
+DEBUG:root:song_result: Daft Punk - Harder, Better, Faster, Stronger
+DEBUG:root:correct match
+DEBUG:root:query duration: 1.122
+DEBUG:root:confidence: 916
+DEBUG:root:song start_time: 56
+DEBUG:root:result start time: 56.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Harder Better Faster Stronger Daft Punk remix_16_4sec.mp3
+DEBUG:root:song: Harder Better Faster Stronger Daft Punk remix
+DEBUG:root:song_result: Harder Better Faster Stronger Daft Punk remix
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.957
+DEBUG:root:confidence: 128
+DEBUG:root:song start_time: 16
+DEBUG:root:result start time: 8.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Harder Better Faster Stronger Daft Punk remix_56_1sec.mp3
+DEBUG:root:song: Harder Better Faster Stronger Daft Punk remix
+DEBUG:root:song_result: Harder Better Faster Stronger Daft Punk remix
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.226
+DEBUG:root:confidence: 162
+DEBUG:root:song start_time: 56
+DEBUG:root:result start time: 56.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Harder Better Faster Stronger Daft Punk remix_60_3sec.mp3
+DEBUG:root:song: Harder Better Faster Stronger Daft Punk remix
+DEBUG:root:song_result: Harder Better Faster Stronger Daft Punk remix
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.716
+DEBUG:root:confidence: 800
+DEBUG:root:song start_time: 60
+DEBUG:root:result start time: 60.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Harder Better Faster Stronger Daft Punk remix_8_2sec.mp3
+DEBUG:root:song: Harder Better Faster Stronger Daft Punk remix
+DEBUG:root:song_result: Harder Better Faster Stronger Daft Punk remix
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.47
+DEBUG:root:confidence: 167
+DEBUG:root:song start_time: 8
+DEBUG:root:result start time: 8.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Harder Better Faster Stronger Daft Punk remix_9_5sec.mp3
+DEBUG:root:song: Harder Better Faster Stronger Daft Punk remix
+DEBUG:root:song_result: Harder Better Faster Stronger Daft Punk remix
+DEBUG:root:correct match
+DEBUG:root:query duration: 1.077
+DEBUG:root:confidence: 646
+DEBUG:root:song start_time: 9
+DEBUG:root:result start time: 9.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:finished obtaining results from dejavu in 17.446062326431274
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmp1ohp9ww8', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpiatcls06'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpb744xt5t', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpog55ydp9'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmp1t9yewn6', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpyboq3fhu'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpgvkmxin7', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpyg9n44r_'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpeqzuyu3v', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpznw0k_oy'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmp409bd0wa', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpvsygut22'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpj0l6syzh', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpfwpig7i4'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpl2rvkuwt', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmp4vbnilco'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpjntx_qld', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmp5c9tt9br'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpmsbbkwg2', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmp566u4gr4'])
+DEBUG:root:Running Dejavu fingerprinter on files in ./mp3...
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Daft Punk - Harder, Better, Faster, Stronger2_131_4sec.mp3
+DEBUG:root:song: Daft Punk - Harder, Better, Faster, Stronger2
+DEBUG:root:song_result: Daft Punk - Harder, Better, Faster, Stronger
+DEBUG:root:invalid match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Daft Punk - Harder, Better, Faster, Stronger2_213_1sec.mp3
+DEBUG:root:No match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Daft Punk - Harder, Better, Faster, Stronger2_66_2sec.mp3
+DEBUG:root:song: Daft Punk - Harder, Better, Faster, Stronger2
+DEBUG:root:song_result: Daft Punk - Harder, Better, Faster, Stronger
+DEBUG:root:invalid match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Daft Punk - Harder, Better, Faster, Stronger2_75_3sec.mp3
+DEBUG:root:song: Daft Punk - Harder, Better, Faster, Stronger2
+DEBUG:root:song_result: Daft Punk - Harder, Better, Faster, Stronger
+DEBUG:root:invalid match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Daft Punk - Harder, Better, Faster, Stronger2_84_5sec.mp3
+DEBUG:root:song: Daft Punk - Harder, Better, Faster, Stronger2
+DEBUG:root:song_result: Michael Jackson - Billie Jean
+DEBUG:root:invalid match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Daft Punk - Harder, Better, Faster, Stronger_115_3sec.mp3
+DEBUG:root:song: Daft Punk - Harder, Better, Faster, Stronger
+DEBUG:root:song_result: Daft Punk - Harder, Better, Faster, Stronger
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.732
+DEBUG:root:confidence: 235
+DEBUG:root:song start_time: 115
+DEBUG:root:result start time: 115.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Daft Punk - Harder, Better, Faster, Stronger_147_5sec.mp3
+DEBUG:root:song: Daft Punk - Harder, Better, Faster, Stronger
+DEBUG:root:song_result: Daft Punk - Harder, Better, Faster, Stronger
+DEBUG:root:correct match
+DEBUG:root:query duration: 1.144
+DEBUG:root:confidence: 314
+DEBUG:root:song start_time: 147
+DEBUG:root:result start time: 147.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Daft Punk - Harder, Better, Faster, Stronger_156_1sec.mp3
+DEBUG:root:song: Daft Punk - Harder, Better, Faster, Stronger
+DEBUG:root:song_result: Daft Punk - Harder, Better, Faster, Stronger
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.244
+DEBUG:root:confidence: 64
+DEBUG:root:song start_time: 156
+DEBUG:root:result start time: 156.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Daft Punk - Harder, Better, Faster, Stronger_195_4sec.mp3
+DEBUG:root:song: Daft Punk - Harder, Better, Faster, Stronger
+DEBUG:root:song_result: Daft Punk - Harder, Better, Faster, Stronger
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.952
+DEBUG:root:confidence: 977
+DEBUG:root:song start_time: 195
+DEBUG:root:result start time: 195.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Daft Punk - Harder, Better, Faster, Stronger_41_2sec.mp3
+DEBUG:root:song: Daft Punk - Harder, Better, Faster, Stronger
+DEBUG:root:song_result: Daft Punk - Harder, Better, Faster, Stronger
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.557
+DEBUG:root:confidence: 396
+DEBUG:root:song start_time: 41
+DEBUG:root:result start time: 41.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:finished obtaining results from dejavu in 18.08350968360901
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpe33elkgv', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmp4ydxglwq'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpxhbceg_d', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmp1xcurmsp'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpku_vmwdp', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmp8lo1l977'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpptxjw37k', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmp37jnp_ys'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpzw6l5iaq', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmphw92amnm'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmp0x8drv7b', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpi_ir037d'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmp3xq0wo1d', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmp5nk6zzo9'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmp4e7jr6vw', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpwba9qnsx'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpathvrc66', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpjwpsa9hi'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmpayd1n9a5', '-vn', '-f', 'wav', 'C:\\Users\\Julien\\AppData\\Local\\Temp\\tmplj8b11tj'])
+DEBUG:root:Running Dejavu fingerprinter on files in ./mp3...
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Daft Punk - Harder, Better, Faster, Stronger_116_5sec.mp3
+DEBUG:root:song: Daft Punk - Harder, Better, Faster, Stronger
+DEBUG:root:song_result: Daft Punk - Harder, Better, Faster, Stronger
+DEBUG:root:correct match
+DEBUG:root:query duration: 1.186
+DEBUG:root:confidence: 764
+DEBUG:root:song start_time: 116
+DEBUG:root:result start time: 116.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Daft Punk - Harder, Better, Faster, Stronger_130_1sec.mp3
+DEBUG:root:song: Daft Punk - Harder, Better, Faster, Stronger
+DEBUG:root:song_result: Daft Punk - Harder, Better, Faster, Stronger
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.254
+DEBUG:root:confidence: 62
+DEBUG:root:song start_time: 130
+DEBUG:root:result start time: 130.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Daft Punk - Harder, Better, Faster, Stronger_155_3sec.mp3
+DEBUG:root:song: Daft Punk - Harder, Better, Faster, Stronger
+DEBUG:root:song_result: Daft Punk - Harder, Better, Faster, Stronger
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.756
+DEBUG:root:confidence: 122
+DEBUG:root:song start_time: 155
+DEBUG:root:result start time: 155.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Daft Punk - Harder, Better, Faster, Stronger_63_4sec.mp3
+DEBUG:root:song: Daft Punk - Harder, Better, Faster, Stronger
+DEBUG:root:song_result: Daft Punk - Harder, Better, Faster, Stronger
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.99
+DEBUG:root:confidence: 490
+DEBUG:root:song start_time: 63
+DEBUG:root:result start time: 71.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Daft Punk - Harder, Better, Faster, Stronger_64_2sec.mp3
+DEBUG:root:song: Daft Punk - Harder, Better, Faster, Stronger
+DEBUG:root:song_result: Daft Punk - Harder, Better, Faster, Stronger
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.523
+DEBUG:root:confidence: 428
+DEBUG:root:song start_time: 64
+DEBUG:root:result start time: 64.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Nirvana - Smells Like Teen Spirit_121_1sec.mp3
+DEBUG:root:song: Nirvana - Smells Like Teen Spirit
+DEBUG:root:song_result: Nirvana - Smells Like Teen Spirit
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.235
+DEBUG:root:confidence: 25
+DEBUG:root:song start_time: 121
+DEBUG:root:result start time: 121.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Nirvana - Smells Like Teen Spirit_156_2sec.mp3
+DEBUG:root:song: Nirvana - Smells Like Teen Spirit
+DEBUG:root:song_result: Nirvana - Smells Like Teen Spirit
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.518
+DEBUG:root:confidence: 432
+DEBUG:root:song start_time: 156
+DEBUG:root:result start time: 156.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Nirvana - Smells Like Teen Spirit_163_5sec.mp3
+DEBUG:root:song: Nirvana - Smells Like Teen Spirit
+DEBUG:root:song_result: Nirvana - Smells Like Teen Spirit
+DEBUG:root:correct match
+DEBUG:root:query duration: 1.137
+DEBUG:root:confidence: 719
+DEBUG:root:song start_time: 163
+DEBUG:root:result start time: 163.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Nirvana - Smells Like Teen Spirit_264_3sec.mp3
+DEBUG:root:song: Nirvana - Smells Like Teen Spirit
+DEBUG:root:song_result: Nirvana - Smells Like Teen Spirit
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.653
+DEBUG:root:confidence: 90
+DEBUG:root:song start_time: 264
+DEBUG:root:result start time: 264.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Nirvana - Smells Like Teen Spirit_57_4sec.mp3
+DEBUG:root:song: Nirvana - Smells Like Teen Spirit
+DEBUG:root:song_result: Nirvana - Smells Like Teen Spirit
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.909
+DEBUG:root:confidence: 103
+DEBUG:root:song start_time: 57
+DEBUG:root:result start time: 57.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:finished obtaining results from dejavu in 18.22495460510254
