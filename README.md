@@ -3,7 +3,7 @@
 Voici le code de notre projet de 2ème année CPBx.
 Il réutilise les travaux suivants : https://github.com/worldveil/dejavu et https://github.com/basti2342/gif-music-visualizer
 
-Une partie de l'explication du code de Dejavu est disponible dans notre mémoire.
+Une partie de l'explication du code de Dejavu est disponible dans notre mémoire sur les algorithmes de reconnaissance musicale.
 
 
 
